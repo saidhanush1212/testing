@@ -1,1 +1,2 @@
 changes in master branch are replicated in all the branches.
+after merge changed in master.
