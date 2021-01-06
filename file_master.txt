@@ -1,2 +1,4 @@
 changes in master branch are replicated in all the branches.
 after merge changed in master.
+changed in branch1.
+//after resolving the merge conflict when merging branch1 to master.
